@@ -1,5 +1,3 @@
-﻿# PYTHON-PRACTICE-
-
 # 🐍 PYTHON-PRACTICE-
 
 ## 📘 About
@@ -48,3 +46,4 @@ I’m learning Python step by step to build a strong foundation in both **progra
 
 ### ⭐ How to Support
 If you find this repo helpful, please **star ⭐ the repository** to support and motivate me to continue learning and uploading more topics!
+
