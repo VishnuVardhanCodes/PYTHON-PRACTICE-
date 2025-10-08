@@ -25,7 +25,7 @@ print(len(a))
 #python data types
 x = ("apple", "banana", "cherry")
 y = (1, 5, 7, 9, 3)
-z = (True, False, False)
+z = (True, False, False) 
 
 print(x,y,z)
 
