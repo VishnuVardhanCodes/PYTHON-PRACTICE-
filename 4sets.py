@@ -2,7 +2,7 @@
 
 # SETS
 # SETS ARE NOT ORDERED AND DUPLICATES 
- 
+ # sets does not allow the duplicate values in the sets 
 x={"vishnu","vardhan","nithya","vishnu"} # here it does not allow the duplicate values in the sets
 print(x) 
 
