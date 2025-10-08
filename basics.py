@@ -55,7 +55,7 @@ print(x)
 print(y)
 print(z)
 
- #  ASSIGN ONE VALUE TO MULTIPLE VALUES
+#  ASSIGN ONE VALUE TO MULTIPLE VALUES
 x=y=z="VISHNU"
 print(x,y,z)
 
