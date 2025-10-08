@@ -1,6 +1,7 @@
 #DAY 2 OF LEARNING PYTHON 
 
 # LISTS arecreated in the squared brackets "[]"
+#lists are ordered and they allow the duplicate values also in the lists
 x,y,z= ["vishnu","vardhan",20]
 print(type(x))
 print(type(z))
