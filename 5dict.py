@@ -1,4 +1,4 @@
-
+#DAY 2 OF LEARNING PYTHON 
                               # DICTIONARIES
 #Dictionaries are used to store data values in key:value pairs. 
 #FOR WRITING THE DICT WE NEED TO WRITE BOTH THE KEY AND VALUE PAIR 
