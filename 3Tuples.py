@@ -48,3 +48,7 @@ x = ("apple", "banana", "cherry")
 x.append("vishnu")
 print(x)
 
+#Adding a new tuple
+x=("vishnu",1,20.1)
+print(x)
+print(type(x))
