@@ -17,6 +17,7 @@ print(x)
 # we can also get the length of the list 
 x=["vishnu","vardhan","maxwell","messi","niniii","rose"]
 print(x)
+print(type(x))
 print(len(x))
 
 # list item data types
