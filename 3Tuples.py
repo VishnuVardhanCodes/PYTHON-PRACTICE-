@@ -7,6 +7,9 @@
 x=("vishnu",12,3.0)
 print(x)
 
+y=("vishnu",20)
+print(y)
+
 #tuples always start from the index of 0 only 
 
 #tuples can allow the multiple values 
